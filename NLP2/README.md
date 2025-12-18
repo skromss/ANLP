@@ -51,7 +51,7 @@ graph TD;
 python notebooks/demo.py
 ```
 
-```bash
-python notebooks/demo.py
-```
 For more queries
+```bash
+python notebooks/run_user_queries.py
+```
