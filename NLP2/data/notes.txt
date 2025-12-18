@@ -1,0 +1,28 @@
+# Music Theory Notes
+
+## 1. Basics
+- **Pitch**: The highness or lowness of a sound.
+- **Rhythm**: The placement of sounds in time.
+- **Tempo**: The speed of the beat (BPM).
+
+## 2. Scales
+- **Major Scale**: W-W-H-W-W-W-H (W=Whole step, H=Half step). Happy sound.
+- **Minor Scale**: W-H-W-W-H-W-W. Sad or melancholic sound.
+- **Pentatonic Scale**: A 5-note scale, very popular in rock, blues, and pop.
+
+## 3. Chords
+- **Triad**: A chord with 3 notes (Root, 3rd, 5th).
+- **Major Chord**: Root + Major 3rd + Perfect 5th.
+- **Minor Chord**: Root + Minor 3rd + Perfect 5th.
+- **Seventh Chord**: Triad + a 7th interval.
+
+## 4. Circle of Fifths
+A visual representation of the relationships among the 12 tones of the chromatic scale, key signatures, and related chords.
+Clockwise moves by Perfect 5ths (C -> G -> D...).
+
+## 5. Intervals
+- **Perfect Unison**: 0 semitones.
+- **Major Second**: 2 semitones.
+- **Major Third**: 4 semitones.
+- **Perfect Fifth**: 7 semitones.
+- **Octave**: 12 semitones.
