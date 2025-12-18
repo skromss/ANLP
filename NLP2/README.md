@@ -50,3 +50,8 @@ graph TD;
 ```bash
 python notebooks/demo.py
 ```
+
+```bash
+python notebooks/demo.py
+```
+For more queries
